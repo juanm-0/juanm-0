@@ -4,7 +4,7 @@ Welcome to my personal portfolio and resume, hosted via GitHub Pages.
 
 ## Live Site
 
-[https://juanm-0.github.io](https://juanm-0.github.io)
+[https://juanm-0.github.io](https://juanm-0.github.io/juanm-0/)
 
 ## Key Projects Linked
 
